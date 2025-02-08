@@ -1,0 +1,7 @@
+.wlock
+.DS_Store
+*.pyc
+.coverage
+.htmlcov
+.DS_Store
+.idea

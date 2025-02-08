@@ -1,0 +1,14 @@
+{
+    "id": "google-search-tool",
+    "version": "0.0.1",
+
+    "meta": {
+        "label": "Google Search Tool",
+        "description": "This plugin provides Google Search as an agent tool",
+        "author": "Dataiku",
+        "icon": "fas fa-search",
+        "tags": ["Generative AI", "Agents", "Tools"],
+        "url": "https://doc.dataiku.com",
+        "licenseInfo": "Apache License 2.0"
+    }
+}

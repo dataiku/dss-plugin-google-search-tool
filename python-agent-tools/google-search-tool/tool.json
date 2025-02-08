@@ -1,0 +1,21 @@
+{
+"id": "search1",
+    "meta": {
+        
+        "label": "Search The Web (Google)"
+    },
+    
+    "params" : [
+        {
+            "name": "cx",
+            "label": "Google CustomSearch cx id",
+            "type": "STRING"
+        },
+        {
+            "name": "google_search_api_connection",
+            "label": "Google API Connection",
+            "type": "PRESET",
+            "parameterSetId": "google-search-api-connection"
+        }
+    ]
+}

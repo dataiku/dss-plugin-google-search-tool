@@ -1,0 +1,21 @@
+{
+    "meta" : {
+        "label": "Google Search connection",
+        "description": "Google Search connection",
+        "icon": "icon-search"
+    },
+    "defaultDefinableInline": true,
+    "defaultDefinableAtProjectLevel": true,
+
+    "pluginParams": [],
+
+    "params": [
+        {
+            "name": "apiKey",
+            "label":"API Key",
+            "type": "PASSWORD",
+            "mandatory": true,
+            "description": "API Key for Google Custom Search"
+        }
+    ]
+}
