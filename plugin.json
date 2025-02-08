@@ -4,10 +4,10 @@
 
     "meta": {
         "label": "Google Search Tool",
-        "description": "This plugin provides Google Search as an agent tool",
+        "description": "This plugin provides Google Search as an agent tool. Requires DSS 13.4 or above",
         "author": "Dataiku",
         "icon": "fas fa-search",
-        "tags": ["Generative AI", "Agents", "Tools"],
+        "tags": ["Generative AI", "Agents", "Tools", "Google", "API"],
         "url": "https://doc.dataiku.com",
         "licenseInfo": "Apache License 2.0"
     }
