@@ -1,8 +1,8 @@
 {
 "id": "search1",
     "meta": {
-        
-        "label": "Search The Web (Google)"
+        "label": "Google Search",
+        "description": "Search the web for relevant information to respond to queries with"
     },
     
     "params" : [
