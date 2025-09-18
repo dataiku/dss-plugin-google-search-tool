@@ -9,7 +9,8 @@
         {
             "name": "cx",
             "label": "Google CustomSearch cx id",
-            "type": "STRING"
+            "type": "STRING",
+            "description": "The unique identifier for the Google Programmable Search Engine, required for API calls. For more information, see the tool's documentation."
         },
         {
             "name": "google_search_api_connection",

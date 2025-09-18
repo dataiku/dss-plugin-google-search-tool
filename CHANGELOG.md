@@ -1,5 +1,9 @@
 # Changelog
 
+## [Version 0.0.3] - Fix release - 2025-09-18
+
+- Update Google CustomSearch cx id parameter description
+
 ## [Version 0.0.2] - Fix release - 2025-04-24
 
 - Update agent tool description
