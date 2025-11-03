@@ -1,5 +1,9 @@
 # Changelog
 
+## [Version 0.0.4] - Fix release - 2025-10-03
+
+- Fix agent tool in Python 3.12. __packaging__ dependency was missing.
+
 ## [Version 0.0.3] - Fix release - 2025-09-18
 
 - Update Google CustomSearch cx id parameter description
