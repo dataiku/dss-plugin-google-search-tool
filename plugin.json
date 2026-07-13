@@ -1,12 +1,12 @@
 {
     "id": "google-search-tool",
-    "version": "0.0.4",
+    "version": "0.0.5",
 
     "meta": {
         "label": "Google Search Tool (Deprecated)",
         "description": "This plugin provides Google Search as an agent tool. Requires DSS 13.4 or above",
         "author": "Dataiku",
-        "icon": "fas fa-search",
+        "icon": "fas fa-search dku-icon-google",
         "category": "AI/ML",
         "tags": ["Generative AI", "Agents", "Tools", "Google", "Agent tool"],
         "url": "https://doc.dataiku.com",

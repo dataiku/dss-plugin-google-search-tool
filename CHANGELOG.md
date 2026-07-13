@@ -1,5 +1,10 @@
 # Changelog
 
+## [Version 0.0.5] - Feature release - 2025-11-12
+
+- Added load sample query function
+- Changed icon to google logo
+
 ## [Version 0.0.4] - Fix release - 2025-10-03
 
 - Fix agent tool in Python 3.12. __packaging__ dependency was missing.

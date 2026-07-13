@@ -1,6 +1,7 @@
 {
 "id": "search1",
     "meta": {
+        "icon": "dku-icon-google",
         "label": "Google Search",
         "description": "Search the web for relevant information to respond to queries with"
     },

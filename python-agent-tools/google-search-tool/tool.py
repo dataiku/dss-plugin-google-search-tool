@@ -24,6 +24,11 @@ class GoogleWebSearchTool(BaseAgentTool):
             }
         }
 
+    def load_sample_query(self, tool):
+        return {
+            "q": "The query string"
+        }
+
     def invoke(self, input, trace):
         args = input["input"]
         q = args["q"]
